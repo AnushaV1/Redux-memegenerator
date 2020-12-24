@@ -27,8 +27,8 @@ const AddMemeForm =({addMeme}) => {
 
     return (
         <>
-        <div> <h1>Meme Generator</h1></div>
-        <div>
+        <div > <h1>Meme Generator</h1></div>
+        <div style={{align:'center'}}>
             <form onSubmit={handleSubmit} className="AddMemeForm">
                 <label htmlFor="url">URL</label>
                 <input type="text" name="url" id="url" placeholder="Enter URL Here" value={formData.url} onChange={handleChange} />
@@ -39,7 +39,7 @@ const AddMemeForm =({addMeme}) => {
             <button>Add Meme</button>
             </form>
         </div>
-
+</>
     )
 }
 export default AddMemeForm;
