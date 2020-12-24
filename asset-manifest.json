@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Redux-memegenerator/static/css/main.e0255488.chunk.css",
+    "main.js": "/Redux-memegenerator/static/js/main.9d53c9cd.chunk.js",
+    "main.js.map": "/Redux-memegenerator/static/js/main.9d53c9cd.chunk.js.map",
+    "runtime-main.js": "/Redux-memegenerator/static/js/runtime-main.cb1e97ce.js",
+    "runtime-main.js.map": "/Redux-memegenerator/static/js/runtime-main.cb1e97ce.js.map",
+    "static/js/2.1eec2105.chunk.js": "/Redux-memegenerator/static/js/2.1eec2105.chunk.js",
+    "static/js/2.1eec2105.chunk.js.map": "/Redux-memegenerator/static/js/2.1eec2105.chunk.js.map",
+    "index.html": "/Redux-memegenerator/index.html",
+    "precache-manifest.313b4d2409d8d04de62fd2adf0842e0b.js": "/Redux-memegenerator/precache-manifest.313b4d2409d8d04de62fd2adf0842e0b.js",
+    "service-worker.js": "/Redux-memegenerator/service-worker.js",
+    "static/css/main.e0255488.chunk.css.map": "/Redux-memegenerator/static/css/main.e0255488.chunk.css.map",
+    "static/js/2.1eec2105.chunk.js.LICENSE.txt": "/Redux-memegenerator/static/js/2.1eec2105.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb1e97ce.js",
+    "static/js/2.1eec2105.chunk.js",
+    "static/css/main.e0255488.chunk.css",
+    "static/js/main.9d53c9cd.chunk.js"
+  ]
+}
