@@ -13,7 +13,6 @@ function App() {
   }
 
   const deleteMeme = (id) =>{
-    console.log(id)
     dispatch({type: "REMOVE_MEME", id });
   }
 
