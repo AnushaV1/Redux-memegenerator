@@ -10,11 +10,9 @@ Meme generator made with React and Redux
 * **Meme created upon form submission**
 * **Click the Delete button to delete meme**
 
-
-## Getting Started 
-
+### Getting Started 
 * **Clone this repository**
 * **npm install**
 * **npm start**
 
-### This project was bootstrapped with Create React App.
+#### This project was bootstrapped with Create React App.
