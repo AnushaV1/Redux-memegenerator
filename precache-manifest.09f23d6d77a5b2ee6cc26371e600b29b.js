@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "47fd48eb926ebf45600d3cdb4a107598",
+    "revision": "3c4507b1401633f655243ef20b7a2b86",
     "url": "/Redux-memegenerator/index.html"
   },
   {
-    "revision": "dc5f540f4c5212bdb293",
-    "url": "/Redux-memegenerator/static/css/main.e0255488.chunk.css"
+    "revision": "ff733445e6714c054d65",
+    "url": "/Redux-memegenerator/static/css/main.000fb747.chunk.css"
   },
   {
     "revision": "f9593db98f166c008891",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Redux-memegenerator/static/js/2.1eec2105.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dc5f540f4c5212bdb293",
-    "url": "/Redux-memegenerator/static/js/main.9d53c9cd.chunk.js"
+    "revision": "ff733445e6714c054d65",
+    "url": "/Redux-memegenerator/static/js/main.7f7406e6.chunk.js"
   },
   {
     "revision": "a6d489a8b31e2a6cb1bb",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Redux-memegenerator/precache-manifest.313b4d2409d8d04de62fd2adf0842e0b.js"
+  "/Redux-memegenerator/precache-manifest.09f23d6d77a5b2ee6cc26371e600b29b.js"
 );
 
 self.addEventListener('message', (event) => {
