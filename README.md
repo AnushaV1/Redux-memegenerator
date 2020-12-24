@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Check the demo [here] (https://AnushaV1/github.io/Redux-memegenerator/index.html)  
+Check the demo [here](https://AnushaV1/github.io/Redux-memegenerator/index.html)  
 
 ## Available Scripts
 
